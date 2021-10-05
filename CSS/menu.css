@@ -63,7 +63,7 @@ div#menuhorizontal li#about {
 
 #imagem-evento{
   border-radius: 50%;
-  width: 50%;
+  width: 40%;
 }
 
 select, input[type=text], input[type=password],input[type=email]
